@@ -101,7 +101,7 @@ nav.top-nav li a:hover {
 
 .intro-container {
     /* dimensions are 3372x1339 -> 0.3971 */
-    background-image: url("images/anna.jpg");
+    background-image: url("images/anna2.jpg");
     background-size: cover;
     height: 650px;
     position: relative;
@@ -111,10 +111,11 @@ nav.top-nav li a:hover {
 
 .intro-text {
     position: relative;
-    top: -15px;
+    top: -130px;
     margin: 100px;
     width: 40%;
-    color: white;
+    /* color: black; */
+    color: #29709C;
 
 
 }
